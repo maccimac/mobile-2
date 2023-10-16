@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Classwork3</string>
+    <string name="goToSecond">Go to second activity</string>
+    <string name="changeThisText">Change this text</string>
+    <string name="firstActText">First activity text</string>
+    <string name="secActText">Second activty text</string>
+    <string name="goToFirst">Go to first activity</string>
+</resources>
